@@ -1,4 +1,6 @@
-# <div align="center">👨‍💻 Adars T S</div>
+![github-profile-banner](https://github.com/user-attachments/assets/c46f8223-ae31-4c24-84cb-bd2abcd4c74d)
+
+
 
 <div align="center">
   
