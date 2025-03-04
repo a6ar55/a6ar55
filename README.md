@@ -53,9 +53,12 @@ me.say_hi()
 - 🌟 Open Source Contributor (Learning Equality - Kolibri)
 - 🏅 Challenge Author @ NCIIPC Pentethon 2024
 
-## 📊 GitHub Stats
+## 📊 GitHub & Leetcode Stats
 
 ![Adars's GitHub stats](https://github-readme-stats.vercel.app/api?username=a6ar55&show_icons=true&theme=radical)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/a6ar55?theme=dark&font=Fira%20Code&ext=heatmap)
+
 
 ## 🛠️ Technologies & Tools
 
